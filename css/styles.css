@@ -1,6 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #FFFFFF;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 a {
@@ -116,6 +117,7 @@ ul {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
+        color: #434455;
 }
 
 .team {
@@ -133,6 +135,7 @@ ul {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 .team-title {
         font-weight: 500;
@@ -150,6 +153,7 @@ ul {
         line-height: 1.5;
         letter-spacing: 0.02em;
         text-align: center;
+        color: #434455;
 }
 
 .portfolio {
@@ -183,6 +187,7 @@ ul {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
+        color: #434455;
 }
 
 .footer { 
